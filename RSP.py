@@ -124,7 +124,7 @@ countnum=3
 first=1
 print("***가위 바위 보 게임 !!!***")
 print("숫자 1,2,3을 이용해 컴퓨터와 가위바위보를 해보세요!")
-print("최고 연승 기록은은 저장됩니다!!!\n")
+print("최고 연승 기록은 저장됩니다!!!\n")
 while tries<1000:
     print("%d번째"%tries)
     # print("승리:%d 비김:%d 패배:%d 돈:%d"%(wc,mc,lc,money))
