@@ -1,0 +1,3 @@
+dnwndus 1 0
+dn 2 2
+dnwndus 5 5
